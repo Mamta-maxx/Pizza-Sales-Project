@@ -1,6 +1,6 @@
 **Pizza Sales Analysis**
 **Project Description:**
-Pizza Sales Analysis Using SQL, Power BI, and Excel
+ - Pizza Sales Analysis Using SQL, Power BI, and Excel
 
 **Overview**
 Welcome to the Pizza Sales Analysis project! This project leverages Power BI and SQL on a MySQL server to provide insights into pizza sales data. The goal is to help stakeholders understand sales trends, customer preferences, and overall business performance.
