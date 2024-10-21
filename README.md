@@ -26,7 +26,7 @@ Utilize charts, graphs, and maps to present data in an engaging manner.
 
 ![Screenshot 2024-10-21 183337](https://github.com/user-attachments/assets/3326f02f-f4a1-44c5-ae6f-72b7d66c1711)
 
--Reporting:
+- Reporting:
 Generate reports summarizing findings and actionable recommendations for marketing strategies, product offerings, and sales tactics.
 
 
@@ -38,6 +38,7 @@ Generate reports summarizing findings and actionable recommendations for marketi
 
 
 *Expected Outcomes*
+
 By the end of this project, stakeholders will have a clear understanding of sales dynamics, enabling data-driven decisions that enhance marketing strategies, optimize inventory, and ultimately improve profitability.
 
 
