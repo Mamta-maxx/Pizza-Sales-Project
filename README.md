@@ -28,9 +28,9 @@ Generate reports summarizing findings and actionable recommendations for marketi
 
 *Technologies Used*
 
-SQL: For querying and manipulating sales data.
-Power BI: For creating interactive visualizations and dashboards.
-Excel: For initial data analysis and calculations (if applicable).
+-SQL: For querying and manipulating sales data.
+-Power BI: For creating interactive visualizations and dashboards.
+-Excel: For initial data analysis and calculations (if applicable).
 
 *Expected Outcomes*
 By the end of this project, stakeholders will have a clear understanding of sales dynamics, enabling data-driven decisions that enhance marketing strategies, optimize inventory, and ultimately improve profitability.
